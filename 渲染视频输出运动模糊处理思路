@@ -1,0 +1,5 @@
+镜头的Current camera settings内Focus settings的focus method由原来的Manual改成None
+
+有一个选项在p p v后期BOX里 ~ 控制运动模糊的 关掉就好了~
+
+可以在后期盒子里设置：搜索Motion Blur 第一个：Amount设置成0（默认是0.5） 运动模糊就关闭了 渲染出来不会出问题
