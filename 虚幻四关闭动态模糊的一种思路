@@ -1,0 +1,7 @@
+在模式，视觉效果里，添加一个Post Process Volume盒子（后期盒子）
+
+在细节detail面板，找到Post Process Volume Settings，勾选Infinite Extent(Unbound)   此体积覆盖整个场景或只有其边界中的区域。
+
+然后在上方渲染Rendering Features里面，找到Motion Blur，将数量和最大都调小一点。
+
+即可关闭动态模糊。
