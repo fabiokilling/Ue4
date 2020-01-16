@@ -9,11 +9,21 @@ Texture Size 一般选择 2048X2048
 然后将所有贴图保存。
 
 贴图对应关系：
+
 AmbientOcclusion(AO)----环境光颜色
+
 BaseColor----漫反射颜色
+
 Specular（高光）----高光颜色&高光级别
+
 Roughness（粗糙）----光泽度
+
 EmissiveColor(自发光)----自发光
+
 OpacityMass(透明遮罩)----不透明度
+
 Normal（法线）----凹凸
+
 Metallic(金属)----反射
+
+SubsurfaceColor(次表面颜色)----
